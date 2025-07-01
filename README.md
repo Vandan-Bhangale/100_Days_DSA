@@ -23,6 +23,7 @@ In this journey, I'm committed to solving **at least 1-2 DSA problems every day*
 
 ---
 
+```
 ## 🗂️ Folder Structure
 
 100_day_dsa/
@@ -33,3 +34,5 @@ In this journey, I'm committed to solving **at least 1-2 DSA problems every day*
 │ └── IsPalindrome.java
 ├── README.md
 └── .gitignore
+
+
